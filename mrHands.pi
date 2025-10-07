@@ -1,0 +1,6 @@
+navn = "markus" 
+
+if navn.lower() == "markus":
+  print("I don't have a variable")
+
+// dette var meg ikke en yngre lærling
